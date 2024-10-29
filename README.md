@@ -3,7 +3,7 @@
 <!--
 **JulianaAstra/JulianaAstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![cat](https://github.com/JulianaAstra/JulianaAstra/1508806401_giphyf-ezgif.com-speed.gif)
+![https://github.com/JulianaAstra/JulianaAstra/1508806401_giphyf-ezgif.com-speed.gif](https://github.com/JulianaAstra/JulianaAstra/blob/main/1508806401_giphyf-ezgif.com-speed.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
