@@ -8,10 +8,10 @@
 ### Мои работы в ходе обучения
 
 #### Тестирование API | Автоматизация Postman
-Ссылка на коллекцию
+[DaData Подсказки по ФИО](https://github.com/JulianaAstra/DaData_FIO_Suggestions_Testing/tree/main)
 
 ### My CV
-Здесь будет сслыка на резюме
+[Здесь будет сслыка на резюме чуть позже...]()
 <!--
 **JulianaAstra/JulianaAstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
