@@ -8,6 +8,9 @@
 
 ### Мои работы в ходе обучения
 
+#### Автоматизированные UI-тесты
+[EscapeRoom Tests](https://github.com/JulianaAstra/EscapeRoomTests)
+
 #### Тестирование API | Автоматизация Postman
 [DaData Подсказки по ФИО](https://github.com/JulianaAstra/DaData_FIO_Suggestions_Testing/tree/main)
 
