@@ -21,10 +21,7 @@
 
 *чуть позже...*
 
-
-markdown
-### 📈 GitHub Activity Graph:
-![JulianaAstra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?JulianaAstra)
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianaastra&show_icons=true&theme=radical)
 <!--
 **JulianaAstra/JulianaAstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
