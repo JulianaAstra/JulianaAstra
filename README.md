@@ -3,7 +3,7 @@
 Меня зовут Юля, и я тестировщица ПО
 
 <div id="badges">
-  <a href=""><img src="https://img.shields.io/badge/Telegram-@SandraBoticelli-blue?style=for-the-badge"/></a>
+  <a href=""><img src="https://img.shields.io/badge/TG-@SandraBoticelli-blue?style=for-the-badge"/></a>
   <a href="https://setka.ru/users/6ec4e904-b7bb-4121-a3e1-b19c0e4c9ddd"><img src="https://img.shields.io/badge/Сетка-purple?style=for-the-badge"/></a>
 </div>  
 
