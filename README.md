@@ -21,7 +21,11 @@
 
 *чуть позже...*
 
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianaastra&show_icons=true&theme=radical)
+![codewars](https://www.codewars.com/users/JulianaAstra/badges/small)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <!--
 **JulianaAstra/JulianaAstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
