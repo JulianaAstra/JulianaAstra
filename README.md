@@ -20,6 +20,11 @@
 [Здесь будет ссылка на резюме]()
 
 *чуть позже...*
+
+
+markdown
+### 📈 GitHub Activity Graph:
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user
 <!--
 **JulianaAstra/JulianaAstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
